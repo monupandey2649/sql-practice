@@ -8,6 +8,8 @@
 ![image](https://github.com/monupandey2649/sql-project/assets/110774724/8e886f92-fcc8-4f14-9865-463718c3e1d8)
 ![image](https://github.com/monupandey2649/sql-project/assets/110774724/bd84e213-af5e-4d79-8dca-67c2523dacd0)
 ![image](https://github.com/monupandey2649/sql-project/assets/110774724/121522dc-cd50-447f-83a5-25cbb30f3402)
+![image](https://github.com/monupandey2649/sql-practice/assets/110774724/54e21179-d838-4103-a054-6653f6c5fce5)
+
 
 
 
